@@ -9,7 +9,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 <h2>
 
-[🚀Live Demo](https://job-listings-with-filtering-codepapa360.vercel.app)
+[🚀Live Demo](https://job-listings-with-filtering-alamin.vercel.app)
 ||
 [💡Frontend Mentor](https://www.frontendmentor.io/solutions/job-listings-with-filtering-custom-retouch-Lv6k8-oauf)
 
@@ -20,7 +20,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![version](https://img.shields.io/github/package-json/v/CodePapa360/job-listings-with-filtering)
+![version](https://img.shields.io/github/package-json/v/CodeWithAlamin/job-listings-with-filtering)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 </div>
@@ -31,9 +31,9 @@ This app filters jobs by role, level, languages, and tools. It receives data fro
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://job-listings-with-filtering-codepapa360.vercel.app">
+<a align="center" href="https://job-listings-with-filtering-alamin.vercel.app">
 
-![Screenshot](./screenshots/job-listings-with-filtering-preview-codepapa360.png)
+![Screenshot](./screenshots/job-listings-with-filtering-preview-CodeWithAlamin.png)
 
 </a>
 
@@ -58,7 +58,7 @@ Users should be able to:
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Job-listings-with-filtering.git
+git clone https://github.com/CodeWithAlamin/Job-listings-with-filtering.git
 ```
 
 - Install dependencies:
@@ -83,10 +83,10 @@ npm start
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -96,7 +96,7 @@ This project was inspired by the "IP Address Tracker" challenge from Frontend Me
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/Job-listings-with-filtering/blob/main/LICENSE.md) License - see the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/Job-listings-with-filtering/blob/main/LICENSE.md) License - see the LICENSE file for details.
 
 ```
 
